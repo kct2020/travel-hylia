@@ -1,8 +1,9 @@
 ---
 date: 2021-03-01
 title: About KCT Travel
-last_revision: 
-tags: []
+last_revision: 2021-03-01
+tags:
+- admin
 image: "/images/demo-image-2.jpg"
 
 ---
