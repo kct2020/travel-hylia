@@ -12,6 +12,15 @@ fields:
   config:
     date_format: YYYY-MM-DD
     export_format: YYYY-MM-DD
+- name: last_revision
+  type: datetime
+  label: Last Revision
+  description: Default to publish date then change when content is meaningfully revised.
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: list
   name: tags
   label: tags
